@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Chain
+  - Water
+  - UI
+  - Player
+  - Chain1
+  - Chain2
+  - Chain3
+  - Chain4
+  - Colon1
+  - Colon2
+  - Colon3
+  - Colon4
+  - Surface1
+  - Surface2
+  - Surface3
+  - Surface4
+  - 
+  - 
+  - 
+  - 
+  - Evariste
+  - 
+  - Ground
+  - 
+  - LookAtCollider
+  - 
+  - 
+  - TransparentShadowCaster
+  - Background
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Recive Decals
+  - Player
+  - Evariste
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e022220ab6b73b6aa600b205dc9cb7d, type: 3}
+  m_Name: DialogStayState
+  m_EditorClassIdentifier: 
+  stateFactory: {fileID: 11400000, guid: 4c90cabfd2459b330a51ab3a3983c379, type: 2}

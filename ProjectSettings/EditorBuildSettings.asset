@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4b7a0aa31db84cbaabb0fdc75b2191cb
+  - enabled: 0
+    path: Assets/Scenes/IntroLvl.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/CylinderLvl.unity
+    guid: 20637dac9720d14e78474761ab3dbd31
+  - enabled: 0
+    path: Assets/Scenes/Torus1Lvl.unity
+    guid: aeab98713412e519c93891f56d160e65
+  - enabled: 0
+    path: Assets/Scenes/2ColonsLvl/Torus2Lvl.unity
+    guid: d2f2ad898836def0e8b817555f926239
+  - enabled: 0
+    path: Assets/Scenes/IntroProjectiveFieldLvl.unity
+    guid: 1cac9c95df6939ecdb5b9334e37f66b6
+  - enabled: 0
+    path: Assets/Scenes/ProjectiveFieldLvl.unity
+    guid: b9698103b9f38f8b6a0898f0fd98091f
+  - enabled: 0
+    path: Assets/Scenes/KleinBottleLvl.unity
+    guid: 6a0d3e3752b3fb3b0ba301123aa07ca2
+  - enabled: 0
+    path: Assets/Scenes/Genus2Lvl/Genus2Lvl.unity
+    guid: aee92ff20f3dc1278b196060c3c71bf5
+  - enabled: 0
+    path: Assets/Scenes/Genus2TorusLvl.unity
+    guid: 80bc9e47e1e543014a66a3eb3965ec36
+  - enabled: 0
+    path: Assets/Scenes/2ColonsLvl/2Colons1GenusLvl.unity
+    guid: df9dfcd6e5090643198a91ab05460a2a
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/Scenes/MainMenu.unity
+    guid: dd55168541c6031e9992a2af64b10b3e
+  - enabled: 0
+    path: Assets/Scenes/Trailer/Scenes/Level1EndTrailer.unity
+    guid: 21fa93ca97f3a66b885f7342f34183d7
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Scenes/Level2Trailer.unity
+    guid: 4c82f1bc3092cc29aa6ce18433eb4f81
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Scenes/Level3TogetherBeforeHoleTrailer.unity
+    guid: 3a3c02322d3f052618b4e2f6dd586901
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Scenes/Level3WithHoleContinuationTrailer.unity
+    guid: 7139fb84e871c703ca34facd2258c392
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Scenes/Level7WithHoleTrailer.unity
+    guid: c6c27bfe2c5b5981ab919554b7f0eb30
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Scenes/Level8WithHoleTrailer.unity
+    guid: def00ad5584442b41a958cb1cfa2b3e5
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Scenes/Level8Trailer.unity
+    guid: 17753a3609cae1822aafeaf0a8c4d6a6
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Scenes/Level6TogetherTrailer.unity
+    guid: 2ca9e850866d1d456ac88091c53cc87a
+  - enabled: 1
+    path: Assets/Scenes/Trailer/Scenes/Level7TogetherTrailer.unity
+    guid: c2bf10a15dd599e9b80ed8143c162ae5
+  - enabled: 0
+    path: Assets/Scenes/Trailer/Scenes/Level3Trailer.unity
+    guid: 914c94c8c2d723d6a88ecee2d1300b22
+  - enabled: 0
+    path: Assets/Scenes/Trailer/Scenes/Level2FromBottomWithLightTrailer.unity
+    guid: a053e121dc54e778a9991abc283bd8bb
+  - enabled: 0
+    path: Assets/Scenes/Trailer/Scenes/Level3Trailer2.unity
+    guid: c7044c4a240060d4a8e69da7754ae354
+  - enabled: 0
+    path: Assets/Scenes/Trailer/Scenes/Level4TogetherFromTopTrailer.unity
+    guid: fe4a3452da6a163a4aef8c3dfd4fbc1a
+  - enabled: 1
+    path: Assets/Scenes/Level1/Scenes/Level1.unity
+    guid: d3f387e49dc79e44b98b933744e1a858
+  - enabled: 1
+    path: Assets/Scenes/Level1/Scenes/Level1WithHole.unity
+    guid: be1800e8e436ad243b84c93591c6dd5d
+  - enabled: 1
+    path: Assets/Scenes/Level1/Scenes/Level1WithHoleFail.unity
+    guid: cf62b92ae909e15bbbefe77000b6e130
+  - enabled: 1
+    path: Assets/Scenes/Level1/Scenes/Level1WithHoleWhite.unity
+    guid: c25775a2d66dd9c09bc994c095d85cd9
+  - enabled: 1
+    path: Assets/Scenes/Level1/Scenes/Level1End.unity
+    guid: d2c0aaa6b67be917490586dffcf5a968
+  - enabled: 1
+    path: Assets/Scenes/Level1/Scenes/ReminderScenes/ReminderLevel1WithHoleWhiteLevel1WithHole.unity
+    guid: 6eaace08016796fd983eef669285111c
+  - enabled: 1
+    path: Assets/Scenes/Level2/Scenes/Level2.unity
+    guid: c7bd6c25d9acf2601b33d3cb415a63c6
+  - enabled: 1
+    path: Assets/Scenes/Level2/Scenes/Tresh/Level2FromBottom.unity
+    guid: 1ec9e214e9228d59693770763925831e
+  - enabled: 1
+    path: Assets/Scenes/Level2/Scenes/Tresh/Level2FromBottomWithLight.unity
+    guid: 0039190167419465896b43d9a100cb1a
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/Tresh/Level3.unity
+    guid: bdb9fd25c7e1f556a99851db9f462a54
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/Tresh/Level3SecondEntry.unity
+    guid: 1f68253d000816fb5aa2eb0766168afe
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/Tresh/Level3EnterFromStreet.unity
+    guid: c416e4eec70c2807da6f80a70da0a006
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/Level3TogetherBeforeHole.unity
+    guid: 8288e3fcc761cc89a9f2a873101d23b5
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/Level3WithHole.unity
+    guid: ffa38d211a32705bebae144bf0ffc663
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/Level3WithHoleFail.unity
+    guid: 1702bb9bb42c294699e0420cd2fc477a
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/Level3WithHoleContinuation.unity
+    guid: 5c0c207cf54e7e4a1974b18998bf6891
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/Level3TogetherFromTop.unity
+    guid: 8fc10153fa0fbd49280dfbd6cb4dc1e0
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/ReminderLevel3WithHole/ReminderLevel3WithHoleLevel1WithHole.unity
+    guid: 151450f30a86d7a849c5e43f1b7e0068
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/ReminderLevel3WithHole/ReminderLevel3WithHoleLevel1WithHoleWhite.unity
+    guid: 225687cfb166bc357ba381ca3b014970
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/ReminderLevel3WithHoleContinuation/ReminderLevel3WithHoleContinuationLevel1WithHole.unity
+    guid: e735cf69e0180d06281b88ecb8c56f29
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/ReminderLevel3WithHoleContinuation/ReminderLevel3WithHoleContinuationLevel1WithHoleWhite.unity
+    guid: ff5982b25b2bf4b8c9a22afbec6a419f
+  - enabled: 1
+    path: Assets/Scenes/Level3/Scenes/ReminderLevel3WithHoleContinuation/ReminderLevel3WithHoleContinuationLevel3WithHole.unity
+    guid: 1a567339bdd79f56da731629181d1a98
+  - enabled: 1
+    path: Assets/Scenes/Level4/Scenes/Level4.unity
+    guid: 87dd917d8b35c49d2b8019c33c78daab
+  - enabled: 1
+    path: Assets/Scenes/Level4/Scenes/Level4EnterFromRight.unity
+    guid: 0461d9157d2c9b304a405813fd167cfd
+  - enabled: 1
+    path: Assets/Scenes/Level4/Scenes/Level4TogetherFromTop.unity
+    guid: a81e226e6d5143231bc30c3268e90787
+  - enabled: 0
+    path: Assets/Scenes/Level6/Scenes/Tresh/Level6.unity
+    guid: ccca2171f5b2b816282a08ca05562cd2
+  - enabled: 1
+    path: Assets/Scenes/Level6/Scenes/Level6Together.unity
+    guid: 8484e26769a212ab0b4aaa89ee2817d8
+  - enabled: 1
+    path: Assets/Scenes/Level6/Scenes/Level6TogetherAfterHole.unity
+    guid: 5daf4f8e068d603d4b030a824fc105f4
+  - enabled: 0
+    path: Assets/Scenes/Level7/Scenes/Tresh/Level7.unity
+    guid: f42cb0c67ec9090ba9572a629018aae9
+  - enabled: 1
+    path: Assets/Scenes/Level7/Scenes/Level7Together.unity
+    guid: 7b25fda3cbe02426fbaa94d0cf7053f9
+  - enabled: 1
+    path: Assets/Scenes/Level7/Scenes/Level7DemoEnding.unity
+    guid: a67576651bb1dc262ba763d67e318fad
+  - enabled: 1
+    path: Assets/Scenes/Level7/Scenes/ReminderLevel7WithHole/ReminderLevel7WithHoleLevel1WithHole.unity
+    guid: 20b63de4ec66939d9b6030f6d429cebb
+  - enabled: 1
+    path: Assets/Scenes/Level7/Scenes/ReminderLevel7WithHole/ReminderLevel7WithHoleLevel1WithHoleWhite.unity
+    guid: 2de28a929f7da0e21a52e214200865df
+  - enabled: 1
+    path: Assets/Scenes/Level7/Scenes/ReminderLevel7WithHole/ReminderLevel7WithHoleLevel3WithHole.unity
+    guid: 94572be67416fac75a49ceb0f211d44d
+  - enabled: 1
+    path: Assets/Scenes/Level7/Scenes/ReminderLevel7WithHole/ReminderLevel7WithHoleLevel3WithHoleContinuation.unity
+    guid: 29586f472e90dfec2b96ca2eb37e40c1
+  - enabled: 1
+    path: Assets/Scenes/Level7/Scenes/Level7WithHole.unity
+    guid: 82b42e2f931935c4e89f68077ce71bb7
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: 70db910186ded7db4882c431f27cfddd
+  - enabled: 1
+    path: Assets/Scenes/Level8/Scenes/Level8.unity
+    guid: b7187a6a7ae2896059d6c48e58c3aeb4
+  - enabled: 1
+    path: Assets/Scenes/Level8/Scenes/ReminderLevel8WithHole/ReminderLevel8WithHoleLevel1WithHole.unity
+    guid: 07c55859aef307b739b447039692dd0b
+  - enabled: 1
+    path: Assets/Scenes/Level8/Scenes/ReminderLevel8WithHole/ReminderLevel8WithHoleLevel1WithHoleWhite.unity
+    guid: 46d49cb604a6945a3ac2c2a29f58604b
+  - enabled: 1
+    path: Assets/Scenes/Level8/Scenes/ReminderLevel8WithHole/ReminderLevel8WithHoleLevel3WithHole.unity
+    guid: 3409f2adb4fcda4dcb797dce028e565e
+  - enabled: 1
+    path: Assets/Scenes/Level8/Scenes/ReminderLevel8WithHole/ReminderLevel8WithHoleLevel3WithHoleContinuation.unity
+    guid: 402e18f633085ce6f9138b8b6736ffb6
+  - enabled: 1
+    path: Assets/Scenes/Level8/Scenes/ReminderLevel8WithHole/ReminderLevel8WithHoleLevel7WithHole.unity
+    guid: 89a206d06bf627c81996e64679e637c0
+  - enabled: 1
+    path: Assets/Scenes/Level8/Scenes/Level8WithHole.unity
+    guid: a4236980a3522c0d385061a888a7fde9
+  - enabled: 1
+    path: Assets/Scenes/Level8/Scenes/Level8AfterHole.unity
+    guid: 40a503379647e22a88d2e162c725ee4d
+  - enabled: 1
+    path: Assets/Scenes/Level10/Scenes/Level10.unity
+    guid: 66aefcba30254bbd287bb99ddfc2b7b0
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: a8c0b1c768169cb4b9a6e43e2b5221de,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0

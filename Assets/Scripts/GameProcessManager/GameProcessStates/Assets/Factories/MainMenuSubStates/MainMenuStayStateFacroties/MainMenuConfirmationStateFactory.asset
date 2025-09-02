@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac41ce666376a7a3592202ee1eb1e0c5, type: 3}
+  m_Name: MainMenuConfirmationStateFactory
+  m_EditorClassIdentifier: 
+  MainMenuConfirmationEnterState: {fileID: 11400000, guid: 5ebe83d744e83023fbdd942958b03de8,
+    type: 2}
+  MainMenuConfirmationStayState: {fileID: 11400000, guid: d4fd47466892f9a01a546b9ad95373ff,
+    type: 2}
+  nullState: {fileID: 11400000, guid: ff3a10f18c913b1c481bc693f77ee980, type: 2}

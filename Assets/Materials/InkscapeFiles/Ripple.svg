@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733333 67.733333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="Ripple.svg"
+   inkscape:export-filename="../Images/WightBlob.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="2.043487"
+     inkscape:cx="63.12739"
+     inkscape:cy="141.66961"
+     inkscape:window-width="2490"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter1"
+       x="-0.085081282"
+       y="-0.085081282"
+       width="1.1701626"
+       height="1.1701626">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur1" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1" />
+      <feGaussianBlur
+         id="feGaussianBlur2"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter1-7"
+       x="-0.04657336"
+       y="-0.04657336"
+       width="1.0931467"
+       height="1.0931467">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur1-5" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1-3" />
+      <feGaussianBlur
+         id="feGaussianBlur2-5"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.52438"
+       id="rect1"
+       width="67.73333"
+       height="67.73333"
+       x="0"
+       y="-1.7763568e-15" />
+    <circle
+       style="display:inline;fill:none;fill-opacity:0.202125;stroke:#ffffff;stroke-width:3.96875;filter:url(#filter1)"
+       id="path1"
+       cx="33.866665"
+       cy="33.866665"
+       r="25.765802" />
+    <circle
+       style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.96875;filter:url(#filter1-7)"
+       id="path1-2"
+       cx="33.866669"
+       cy="33.866669"
+       r="25.765802" />
+  </g>
+</svg>

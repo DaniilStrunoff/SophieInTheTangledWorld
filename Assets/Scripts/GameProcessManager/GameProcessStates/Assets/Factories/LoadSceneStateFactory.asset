@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a70a31209f528def88b731d8a755113, type: 3}
+  m_Name: LoadSceneStateFactory
+  m_EditorClassIdentifier: 
+  LoadSceneEnterState: {fileID: 11400000, guid: 73c3f2c0668ba86abb7d90b961952502,
+    type: 2}
+  LoadSceneStayState: {fileID: 11400000, guid: 7d0c5bc776d400055ad21c7c8ca7b745, type: 2}
+  nullState: {fileID: 11400000, guid: ff3a10f18c913b1c481bc693f77ee980, type: 2}

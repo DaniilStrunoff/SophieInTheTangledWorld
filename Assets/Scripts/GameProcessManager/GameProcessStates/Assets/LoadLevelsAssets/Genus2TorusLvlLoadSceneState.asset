@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f90be0ab780814479685c3de7c34c73, type: 3}
+  m_Name: Genus2TorusLvlLoadSceneState
+  m_EditorClassIdentifier: 
+  NextScene:
+    m_SceneAsset: {fileID: 102900000, guid: 80bc9e47e1e543014a66a3eb3965ec36, type: 3}
+    m_SceneName: Genus2TorusLvl
+  stateFactory: {fileID: 11400000, guid: 46ccdd90fbedf0c5c8e01eec4c02ed12, type: 2}

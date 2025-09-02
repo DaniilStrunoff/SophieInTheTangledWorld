@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5fbc789b2edd272eb516c72b3b51c3e, type: 3}
+  m_Name: EndgameStayState
+  m_EditorClassIdentifier: 
+  stateFactory: {fileID: 11400000, guid: 2f7c69363f1772ba4bb2154a24bf072c, type: 2}

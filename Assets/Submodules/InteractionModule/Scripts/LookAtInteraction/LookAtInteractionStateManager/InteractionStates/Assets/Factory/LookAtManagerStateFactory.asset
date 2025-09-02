@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2d88ef899146c8f180cb1369b97523f, type: 3}
+  m_Name: LookAtManagerStateFactory
+  m_EditorClassIdentifier: 
+  NoLookAtState: {fileID: 11400000, guid: 4a976f5d25f6ec5a68d00f6dbca7f0ba, type: 2}
+  LookAtEnterState: {fileID: 11400000, guid: 7e9a925304df67fccbcfc752f6e77930, type: 2}
+  LookAtStayState: {fileID: 11400000, guid: 84f117dc45b1a5289bd03f7940f5ad5d, type: 2}
+  LookAtExitState: {fileID: 11400000, guid: 7053a4ac698b2e3b1b5b355bf15b810a, type: 2}
+  NotActiveEnterState: {fileID: 11400000, guid: 7e75236959d7a140a848d225431bddfe,
+    type: 2}
+  NotActiveState: {fileID: 11400000, guid: 4e3e3fb158d543037b4573b1e0322b2b, type: 2}
+  nullState: {fileID: 11400000, guid: 56616c30c8c10d2ad99436e3953a1880, type: 2}

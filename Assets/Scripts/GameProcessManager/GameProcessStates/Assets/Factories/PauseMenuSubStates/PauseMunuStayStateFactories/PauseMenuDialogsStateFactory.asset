@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19fdcef1eba63b40ea3827d110bf3837, type: 3}
+  m_Name: PauseMenuDialogsStateFactory
+  m_EditorClassIdentifier: 
+  PauseMenuDialogsEnterState: {fileID: 11400000, guid: 16e591bb210670d2ea1ddaf0d3043e07,
+    type: 2}
+  PauseMenuDialogsStayState: {fileID: 11400000, guid: 1923e2e6a137a7403a0ec13bc91aaa50,
+    type: 2}
+  nullState: {fileID: 11400000, guid: ff3a10f18c913b1c481bc693f77ee980, type: 2}

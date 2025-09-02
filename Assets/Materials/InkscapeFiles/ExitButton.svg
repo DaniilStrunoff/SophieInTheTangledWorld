@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="ExitButton.svg"
+   inkscape:export-filename="../Images/ExitButton.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="1.4449635"
+     inkscape:cx="164.01798"
+     inkscape:cy="108.30723"
+     inkscape:window-width="2490"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.96875;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.916666,43.579529 c -0.109957,3.47769 0.0098,5.927064 0,9.781351 -0.0098,3.852966 0.168299,7.635346 0,7.757869 -0.168299,0.122523 -9.545657,-9.68e-4 -18.918096,0 -9.37244,9.68e-4 -18.977345,0.296113 -19.181904,0 -0.204559,-0.296113 0.08045,-7.392625 0,-27.611623 -0.08045,-20.218998 -0.300063,-26.5924797 0,-26.8925427 0.300063,-0.300063 2.995315,0 19.05,0 16.054685,0 18.866702,-0.1832984 19.05,0 0.183298,0.1832984 0,2.8659142 0,13.2673607 0,10.401447 0.147139,13.837583 0,13.984722 -0.147139,0.147139 -1.758643,0 -9.785986,0 h -9.264014"
+       id="path1"
+       sodipodi:nodetypes="cszszzzzzzzzc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.96875;stroke-dasharray:none;stroke-opacity:1"
+       d="m 42.333333,26.458333 -9.834758,7.408333 9.834758,7.408333"
+       id="path2"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

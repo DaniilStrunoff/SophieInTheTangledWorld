@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88c06f2299669258bbdb1d7add10ba8, type: 3}
+  m_Name: InteractionManagerStateFactory
+  m_EditorClassIdentifier: 
+  NoInteractionState: {fileID: 11400000, guid: 7a4aecbfb5563d58e917d4c25b07d8fc, type: 2}
+  InteractionEnterState: {fileID: 11400000, guid: 6be9c1dbb70dc255587776ba5e660ea3,
+    type: 2}
+  InteractionStayState: {fileID: 11400000, guid: f0eef2cb7f8a5da26af8186cc3a16edb,
+    type: 2}
+  InteractionExitState: {fileID: 11400000, guid: 77f4933dd5023f351ba17f74256dfd86,
+    type: 2}
+  nullState: {fileID: 11400000, guid: c6e6edaeea99f6e739a4939456cb34d3, type: 2}

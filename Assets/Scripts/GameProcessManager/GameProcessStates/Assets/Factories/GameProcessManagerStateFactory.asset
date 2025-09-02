@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8013166116d398a88113ae78254c4a0, type: 3}
+  m_Name: GameProcessManagerStateFactory
+  m_EditorClassIdentifier: 
+  GameplayState: {fileID: 11400000, guid: ef5dc0da671cac9819c3b8de483ff0fd, type: 2}
+  PauseMenuState: {fileID: 11400000, guid: dc88646ddc72c159887eb64859e0a81d, type: 2}
+  DialogState: {fileID: 11400000, guid: 59f9775f3406a2e01b43db476739461f, type: 2}
+  SceneEnterState: {fileID: 11400000, guid: b522ebc2d81825c0f83f56b34263d01e, type: 2}
+  EndgameState: {fileID: 11400000, guid: 538adf221dc624dc68d6daacf2ebbaee, type: 2}
+  StartingState: {fileID: 11400000, guid: ef5dc0da671cac9819c3b8de483ff0fd, type: 2}
+  nullState: {fileID: 11400000, guid: ff3a10f18c913b1c481bc693f77ee980, type: 2}

@@ -1,0 +1,32 @@
+UI,Русский,English,繁體中文
+UI.Auto,Auto,Auto,自動
+UI.Continue,Продолжить,Continue,繼續
+UI.Screen,Изображение,Screen,螢幕
+UI.Localization,Язык,Localization,在地化
+UI.MainMenu,Главное Меню,Main Menu,主選單
+UI.QuitGame,Покинуть Игру,Quit Game,退出遊戲
+UI.Brightness,Яркость,Brightness,亮度
+UI.Dialogs,Диалоги,Dialogs,對話
+UI.CharactersPerSecond,"{0, 3} Символов В Секунду","{0, 3} Characters Per Second ","每秒顯示{0, 3}字"
+UI.WaitSecondsInAutoMode,"Ждать {0, 3:f2} Секунд В Автоматическом Режиме","Wait {0, 3:f2} Seconds In Auto Mode","自動模式下等待{0, 3:f2}秒"
+UI.Audio,Звук,Audio,音訊
+UI.MusicVolume,Громкость Музыки,Music Volume,音樂音量
+UI.SoundsVolume,Громкость Звуков,Sounds Volume,音效音量
+UI.MasterVolume,Общая Громкость,Master Volume,主音量
+UI.NewGame,Новая Игра,New Game,新遊戲
+UI.LoadGame,Загрузить Игру,Load Game,載入遊戲
+UI.Options,Настройки,Options,選項
+UI.Yes,Да,Yes,是
+UI.No,Нет,No,否
+UI.Warning,"Если вы начнете новую игру, весь предыдущий прогресс будет утерян.
+Начать новую игру?","If you start a new game, all previous progress will be lost.
+Start a new game?","開始新遊戲後，此前所有進度都將遺失。
+要開始新遊戲嗎？"
+UI.StartGame,Начать Игру,Start Game,開始遊戲
+UI.NoVSync,Без VSync,No VSync,垂直同步關閉
+UI.VSyncEveryFrame,VSync каждый кадр,VSync every frame,每幀垂直同步
+UI.VSyncEveryTwoFrames,VSync каждые два кадра,VSync every two frames,每兩幀垂直同步
+UI.Recall,Вспомнить,Recall,
+UI.GoBack,Вернуться,Go back,
+UI.Wishlist,Wishlist,Wishlist,
+UI.ToRun,ЧТОБЫ БЕЖАТЬ,TO RUN,
